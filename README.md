@@ -1,2 +1,2 @@
 # MD5CRC
-Craete CRC for file content
+Create CRC for file content
